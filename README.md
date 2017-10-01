@@ -1,4 +1,4 @@
-#Гем CsvPetsonic
+# Гем CsvPetsonic
 
 Парсинг страниц категорий сайта http://www.petsonic.com/ и запись в csv файл по каждому товару из категории:
 
