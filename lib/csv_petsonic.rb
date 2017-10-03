@@ -1,6 +1,5 @@
 require "csv_petsonic/version"
 require 'open-uri'
-require 'uri'
 require 'nokogiri'
 require 'csv'
 
