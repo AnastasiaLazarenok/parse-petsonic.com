@@ -9,5 +9,6 @@ class Get_csv
   parse = Get.new(url,file)
     parse.parsing(url,file)
   end
+end
 
   require 'csv_petsonic/get'
